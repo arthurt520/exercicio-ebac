@@ -1,4 +1,4 @@
-# exercicio-ebac
+# Exercício-Ebac-Javascript
 Respostas do exercício da ebac realizado:
 
 
